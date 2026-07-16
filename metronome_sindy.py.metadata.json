@@ -1,0 +1,4 @@
+{
+  "summary":  "The Python script for the Metronome Calibration, generating phase data for coupled oscillators and using PySINDy to extract the Kuramoto coupling formula.",
+  "updatedAt":  "2026-07-16T00:34:29.945758700Z"
+}
