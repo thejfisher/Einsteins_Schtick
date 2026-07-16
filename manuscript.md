@@ -21,7 +21,20 @@ Here, spatial position ($t, x, y, z$) and translational momentum ($p_x, p_y, p_z
 
 Fundamentally, a wave-defect seeks to exist at its lowest, most relaxed energetic state. When a defect is forced to accelerate, localized kinetic energy builds up. Because the underlying relational framework naturally resists energy concentration—preferring it to spread out and flatten—the defect experiences an automatic, self-induced resistance. The parameter $\gamma$ (relativistic tension) is the mathematical manifestation of this resistance. It represents the "toll" exacted by the matrix to process kinetic transfer without breaking causality, quantifying exactly how the defect geometrically stretches and warps in its continuous attempt to return to a flattened, lowest-energy state. The continuous field interactions (such as gravity and Pauli exclusion) emerge purely from the kinematic coupling of these internal states within this relational framework. 
 
-### 1.2 The ER=EPR Entanglement Framework
+### 1.2 Kinematic-to-Physical Calibration Mapping
+
+To functionally replicate real-world physical boundaries (such as Møller scattering for electron-electron collisions), the computational engine requires a strict dimensional mapping between these abstract tensor values and standard particle physics observables:
+
+1. **Mass ($m_0$)**: Calibrated to a dimensionless baseline. For example, an electron is typically instantiated at $m_0 = 1.0$ (or scaled equivalently to $0.511$ MeV), providing a unified metric against which all heavier particles are proportionally scaled.
+2. **Hue Phase Clock ($\theta_{hue}$)**: The internal cyclical phase explicitly maps to the particle's **Compton frequency**. At rest, an electron's frequency is extremely high; thus, its `hue` value oscillates rapidly, generating a dense, localized "waveform" probability shell around the geometric point.
+3. **Spin-Vorticity ($\omega$)**: Standard quantum mechanical properties like Fermionic spin (1/2) are mapped natively as the internal torsional twist or rotational vorticity within the Weitzenböck lattice, negating the need for separate, ad-hoc spin matrices.
+
+Finally, three macro-level "tuning dials" control the structural viscosity of the collision medium itself:
+* **$F_{pauli}$ (Exclusion Spring):** A scalar multiplier dictating the magnitude of repulsion when identical fermions experience wave-phase overlap.
+* **$\Lambda$ (Vacuum Viscosity/Drag):** Controls the radiative kinetic energy bleed into the vacuum during instances of extreme dynamic acceleration.
+* **$T_{\mu\nu}$ (Torsional Shear):** The geometric twisting of the Weitzenböck lattice that systematically replaces standard Newtonian or Coulombic $1/r^2$ forces.
+
+### 1.3 The ER=EPR Entanglement Framework
 
 While local spatial wave propagation is bounded by $v \le c$, simulating quantum entanglement requires a mechanism to bypass local causal boundaries. We accomplish this not by breaking the speed of light, but by implementing a strict graph-theory analogue of the ER=EPR conjecture [4], which posits that entangled quantum states (EPR) are physically connected by topological Einstein-Rosen bridges (ER).
 
